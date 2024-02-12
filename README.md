@@ -21,3 +21,5 @@
 [605. Can Place Flowers (easy)](605-Can-Place-Flowers.cpp)
 
 ### Tow pointer
+
+[167. Two Sum II - Input Array Is Sorted](167-Two-SumII-Input-Array-Is-Sorted.cpp)
