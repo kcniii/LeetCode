@@ -10,7 +10,7 @@
 
 [10. Regular Expression Matching (hard)](10-Regular-Expression-Matching.cpp)
 
-[455. Assign Cookies](455-Assign-Cookies.cpp)
+[455. Assign Cookies (esay)](455-Assign-Cookies.cpp)
 
 [135. Candy (hard)](135-Candy.cpp)
 
@@ -22,4 +22,6 @@
 
 ### Tow pointer
 
-[167. Two Sum II - Input Array Is Sorted](167-Two-SumII-Input-Array-Is-Sorted.cpp)
+[167. Two Sum II - Input Array Is Sorted (medium)](167-Two-SumII-Input-Array-Is-Sorted.cpp)
+
+[88. Merge Sorted Array (easy)](88-Merge-Sorted-Array.cpp)
